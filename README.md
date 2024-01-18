@@ -6,9 +6,9 @@
 ### Screenshots
 ![Screenshot](/assets/images/Login.png)
 ![Screenshot](/assets/images/Listing.png)
-![Screenshot](/assets/images/Listing Detail.png)
+![Screenshot](/assets/images/ListingDetail.png)
 ![Screenshot](/assets/images/Inbox.png)
-![Screenshot](/assets/images/Refine Location.png)
-![Screenshot](/assets/images/New Listing.png)
+![Screenshot](/assets/images/RefineLocation.png)
+![Screenshot](/assets/images/NewListing.png)
 ![Screenshot](/assets/images/Category.png)
-![Screenshot](/assets/images/Your Listing.png)
+![Screenshot](/assets/images/YourListing.png)
